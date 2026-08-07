@@ -23,7 +23,7 @@ The primary objective of this project is to transform raw UPI transaction data i
 ---
 ## 🎥 Dashboard Demo
   ![Dashboard Demo](https://github.com/vemula-prasanth/PhonePe-UPI-Transaction-Analytics-Dashboard/blob/main/Dashboard.demo%20video.gif)
-
+![dashboard video](https://github.com/vemula-prasanth/PhonePe-UPI-Transaction-Analytics-Dashboard/blob/main/Dashboard.video.mp4)
 # 🎯 Project Objectives
 
 ✔ Analyze UPI transaction data using Microsoft Excel.
