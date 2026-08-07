@@ -273,7 +273,7 @@ The dataset includes detailed UPI transaction records with the following fields:
 
 **Vemula Prasanth**
 
-💼 LinkedIn:https://www.linkedin.com/in/prasanth-vemula-74702b2b6?utm_source=share_via&utm_content=profile&utm_medium=member_android
+💼 LinkedIn:https://www.linkedin.com/in/prasanth-vemula-74702b2b6
 
 💻 GitHub:
 https://github.com/vemula-prasanth
