@@ -16,13 +16,13 @@ The primary objective of this project is to transform raw UPI transaction data i
 
 ---
 
-# 📊 Dashboard Preview
+## 📊 Dashboard Preview
 
-![📊 Dashboard Preview] (https://github.com/vemula-prasanth/PhonePe-UPI-Transaction-Analytics-Dashboard/blob/main/Dashboard.png.png)
+![dashboard preview](https://github.com/vemula-prasanth/PhonePe-UPI-Transaction-Analytics-Dashboard/blob/main/Dashboard.png.png)
 
 ---
-# 🎥 Dashboard Demo
-  ![🎥 Dashboard Demo] ()
+## 🎥 Dashboard Demo
+  ![Dashboard Demo](https://github.com/vemula-prasanth/PhonePe-UPI-Transaction-Analytics-Dashboard/blob/main/Dashboard.demo%20video.gif)
 
 # 🎯 Project Objectives
 
@@ -251,25 +251,7 @@ The dataset includes detailed UPI transaction records with the following fields:
 
 ---
 
-# 📁 Repository Structure
 
-PhonePe-UPI-Transaction-Dashboard/
-
-├── Dashboard.xlsx
-
-├── Dashboard.pdf
-
-├── Dashboard.png
-
-├── Dashboard-demo.gif
-
-├── Dataset.xlsx
-
-├── README.md
-
-└── Assets/
-
----
 
 # 🚀 Future Enhancements
 
