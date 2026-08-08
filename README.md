@@ -2,8 +2,6 @@
 
 ![ PhonePe-UPI-Transaction-Analytics-Dashboard](https://github.com/vemula-prasanth/PhonePe-UPI-Transaction-Analytics-Dashboard/blob/main/phone%20pa.Data%20Analytics.project.png)
 
-> An interactive Microsoft Excel dashboard built to analyze UPI transaction data and transform raw data into meaningful business insights using dynamic visualizations, KPIs, Power Query, Pivot Tables, and interactive reporting.
-
 ---
 
 # 📌 Project Overview
@@ -22,7 +20,7 @@ The primary objective of this project is to transform raw UPI transaction data i
 
 ---
 ## 🎥 Dashboard Demo
-  ![Dashboard Demo](https://github.com/vemula-prasanth/PhonePe-UPI-Transaction-Analytics-Dashboard/blob/main/Dashboard.demo%20video.gif)
+  ![Dashboard Demo](https://github.com/vemula-prasanth/PhonePe-UPI-Transaction-Analytics-Dashboard/blob/main/phonepe%20demo.gif)
 ![dashboard video](https://github.com/vemula-prasanth/PhonePe-UPI-Transaction-Analytics-Dashboard/blob/main/Dashboard.video.mp4)
 # 🎯 Project Objectives
 
